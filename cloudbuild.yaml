@@ -14,7 +14,7 @@ steps:
     args:
       [
         "push",
-        "southamerica-west1-docker.pkg.dev/tienda-microservices-468821/image-registry/products-m",
+        "southamerica-west1-docker.pkg.dev/tienda-microservices-468821/image-registry/products-ms",
       ]
 options:
   logging: CLOUD_LOGGING_ONLY
